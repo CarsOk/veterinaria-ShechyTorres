@@ -1,2 +1,2 @@
 # Veterinaria ShechyTorres
-- [Veterinaria](html ejercicio/index.html)
+- [Veterinaria](htmlejercicio/index.html)
