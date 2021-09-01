@@ -1,0 +1,150 @@
+main {
+    height: 650px;
+    width: 800px;
+    margin: auto;
+}
+
+#imagen1 {
+    height: 150px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+header img {
+    width: 100%;
+}
+
+nav {
+    height: 80px;
+    background-color: #184a4b;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+/* nav ul li {
+    list-style-type: none;
+    display: inline;
+    color: #ffffff;
+    font-size: 18px;
+    padding: 50px;
+} */
+
+#lista {
+    margin: auto;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 25px;
+}
+
+#otra-li {
+    text-align: center;
+    width: 180px;
+}
+
+/* #li-linea {
+    border-right: 2px solid #ffffff;
+    
+} */
+
+#li-linea {
+    border-right: 2px solid #ffffff;
+    width: 180px;
+}
+
+#general {
+    /* border: 5px solid blue; */
+    height: 350px;
+    margin-top: 15px;
+}
+
+#articulos {
+    height: 335px;
+    width: 460px;
+    float: left;
+}
+
+#titulos-article {
+    border-radius: 20px;
+    text-align: center;
+}
+
+article p {
+    padding-left: 10px;
+    width: 320px;
+    float: left;
+    text-align: justify;
+    font-family: 'PT Sans', sans-serif;
+}
+
+article img {
+    width: 100px;
+    float: right;
+    padding-right: 20px;
+}
+
+#articulos article {
+    background-color: #FBF5BA;
+    height: 160px;
+    margin-bottom: 10px;
+}
+
+aside {
+    border-radius: 20px;
+    background-color: #496E6D;
+    height: 335px;
+    width: 320px;
+    float: right;
+
+}
+
+aside header {
+    background-color: #0B2B26;
+    color: #ffffff;
+    height: 30px;
+    text-align: center;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+#title-cita {
+    padding-top: 10px;
+    font-size: 19px;
+}
+
+table {
+    margin: auto;
+    /* padding: 50px; */
+    margin-top: 7px;
+}
+
+table tr td {
+    padding: 7px;
+    /* width: 100px; */
+}
+
+#boton-centrado {
+    text-align: center;
+}
+
+#fecha {
+    width: 97%;
+}
+
+#hora {
+    width: 172px;
+}
+
+footer {
+    text-align: center;
+    background-color: #1B4A48; 
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+footer p {
+    margin: 0%;
+    color: #A8B4B3;
+}
+
+
