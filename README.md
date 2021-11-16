@@ -1,2 +1,2 @@
 # Veterinaria ShechyTorres
-- [Veterinaria](html ejercicio/index.html)
+[Veterinaria](https://carsok.github.io/veterinaria-ShechyTorres/)
